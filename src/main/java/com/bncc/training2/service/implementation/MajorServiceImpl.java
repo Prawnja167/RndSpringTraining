@@ -3,7 +3,7 @@ package com.bncc.training2.service.implementation;
 import com.bncc.training2.dto.request.major.CreateMajorRequest;
 import com.bncc.training2.dto.response.major.CreateMajorResponse;
 import com.bncc.training2.entity.Major;
-import com.bncc.training2.repository.interfaces.MajorRepo;
+import com.bncc.training2.repository.interfaces.basic.MajorRepo;
 import com.bncc.training2.service.interfaces.MajorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.bncc.training2.repository.interfaces;
+package com.bncc.training2.repository.interfaces.basic;
 
 import com.bncc.training2.entity.Major;
 import org.springframework.data.jpa.repository.JpaRepository;
